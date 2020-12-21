@@ -1,0 +1,39 @@
+ol {
+	color: green;
+	background: black;
+	padding: 36px;
+	margin: 40px;
+}
+
+ul {
+	color: red;
+	background: yellow;
+	padding: 36px;
+	margin: 40px;
+}
+
+li {
+	color: black;
+	background: green;
+	padding: 36px;
+	margin: 40px;
+}
+
+img {
+	/*Taille images*/
+	width: 120px;
+
+	/*Hauteur */
+	height: 120px;
+
+	/**Margin*/
+	margin: 20px;
+}
+
+footer {
+	color: blue;
+}
+
+header {
+	color: orange;
+}
